@@ -1,0 +1,88 @@
+Css i tried to make by myself. It's not finished!!/*
+  :root{
+   --background: #E5E5E5;
+   --dark-blue: #364FC7;
+   --light-blue: #4263EB;
+   --black: #00082F;
+   --light-black: rgba(0, 8, 47, 0.8);
+   --white: #FFFFFF;
+   --light-gray: rgba(0, 8, 47, 0.6);
+  
+   font-size: 62.5%;
+  }
+  
+  *{
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+  
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  body {
+    background-color: var(--background);
+  }
+  
+  img {
+    border-radius: 50%;
+    width: 9.2rem;
+    height: 9.2rem;
+    margin-top: 6rem;
+    margin-bottom: 2.7rem;
+  }
+  
+  #container {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3.2rem;
+    line-height: 3.8rem;
+    margin-bottom: .8rem ;
+    font-weight: 700;
+  }
+  
+  p {
+    font-size: 1.8rem;
+    line-height: 2.7rem;
+    font-weight: 400;
+    color: var(--light-gray);
+  }
+  
+  ul {
+    margin-top: 4.8rem;
+    margin-bottom: 4.8rem;
+  }
+  
+  li {
+    margin-bottom: 1.6rem;
+    background-color: var(--light-blue);
+    width: 50%;
+    margin-inline: auto;
+    padding: 1.6rem ;
+    border-radius: .6rem;
+  }
+  
+  a {
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 2.1rem;
+    color: var(--white);
+  
+    outline: none;
+  }
+  footer {
+    color: var(--light-gray);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+  }
+  
+  footer a {
+    color: var(--light-gray);
+    font-weight: 500;
+  }
+  */
