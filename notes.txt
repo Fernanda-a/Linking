@@ -86,3 +86,9 @@ Css i tried to make by myself. It's not finished!!/*
     font-weight: 500;
   }
   */
+
+Como criar um link do github para usar em outros lugares 
+ settings
+ pages
+ no source, onde está none você coloca main e salva
+ 
